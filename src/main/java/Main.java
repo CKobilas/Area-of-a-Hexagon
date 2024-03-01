@@ -15,14 +15,6 @@ public class Main {
     ////Display the results
     System.out.printf("The are of the hexagon is %.2f", area);
 
-
-
-
-
-
-
-
-
     
   }
 }
